@@ -4,7 +4,7 @@ import Layout from './Layout';
 function Home() {
   return (
     <div>
-      <h1>Bienvenidos a la Página de Inicio</h1>
+      <h1>Bienvenidos a la Página de Inicio Amigo</h1>
       <p>Esta es la página principal de nuestra aplicación React con Docker.</p>
     </div>
   );

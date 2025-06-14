@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practica-4-docker-react/static/css/main.551816ac.css",
+    "main.js": "/practica-4-docker-react/static/js/main.a52f2f0b.js",
+    "index.html": "/practica-4-docker-react/index.html",
+    "main.551816ac.css.map": "/practica-4-docker-react/static/css/main.551816ac.css.map",
+    "main.a52f2f0b.js.map": "/practica-4-docker-react/static/js/main.a52f2f0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.551816ac.css",
+    "static/js/main.a52f2f0b.js"
+  ]
+}
